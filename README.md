@@ -111,7 +111,7 @@ Testing with cURL:
 🖥️ Windows (Command Prompt):
 (Note the escaped double quotes \" required for Windows CMD)
 
-curl -X POST "[http://127.0.0.1:8000/chat](http://127.0.0.1:8000/chat)" -H "Content-Type: application/json" -d "{\"message\":\"Hello!\"}"
+(curl -X POST "[http://127.0.0.1:8000/chat](http://127.0.0.1:8000/chat)" -H "Content-Type: application/json" -d "{\"message\":\"Hello!\"}")
 
 
 🍎 macOS / 🐧 Linux (or PowerShell):
