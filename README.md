@@ -14,9 +14,6 @@ I am currently building this out as a full-stack project, and a dedicated fronte
 
 [ ] Build a web-based Frontend UI (React / HTML+JS) to interact with the chatbot.
 
-[ ] Implement response streaming (so the AI types out the answer in real-time).
-
-[ ] Add conversation history/memory.
 
 🚀 Features
 
