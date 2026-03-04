@@ -137,5 +137,3 @@ Error: JSON decode error: Expecting value (Windows)
 Fix: If you are using Windows cmd.exe to send cURL requests, you cannot use single quotes ' around the JSON body. Use double quotes and escape the inner ones like this: "{ \"message\": \"hi\" }"
 
 📄 License
-
-MIT License
